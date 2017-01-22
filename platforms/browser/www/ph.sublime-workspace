@@ -1,0 +1,495 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/grifon/sites/ph.loc/www/search.html",
+			"settings":
+			{
+				"buffer_size": 4492,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/grifon/sites/ph.loc/www/swiper-3d-cube.html",
+			"settings":
+			{
+				"buffer_size": 1663,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/my-app.css",
+			"settings":
+			{
+				"buffer_size": 116,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/grifon/sites/ph.loc/www/js/my-app.js",
+			"settings":
+			{
+				"buffer_size": 2247,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/grifon/sites/ph.loc/www/swiper.html",
+			"settings":
+			{
+				"buffer_size": 4372,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/grifon/sites/ph.loc/www/index.html",
+			"settings":
+			{
+				"buffer_size": 34528,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "Package Control: install",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/grifon/sites/ph.loc/www",
+		"/Users/grifon/sites/ph.loc/www/libs/font-awesome-4.2.0/css",
+		"/Users/grifon/sites/ph.loc/www/libs/font-awesome-4.2.0/fonts",
+		"/Users/grifon/sites/ph.loc/www/libs/Framework7-Icons-master",
+		"/Users/grifon/sites/ph.loc/www/libs/Framework7-Icons-master/css"
+	],
+	"file_history":
+	[
+		"/Users/grifon/sites/ph.loc/www/libs/Framework7-Icons-master/css/framework7-icons.css",
+		"/Users/grifon/phonegap/PH/www/libs/Framework7-Icons-master/cheatsheet.html",
+		"/Users/grifon/sites/ph.loc/www/css/material-icons.css",
+		"/Users/grifon/sites/ph.loc/www/libs/font-awesome-4.2.0/css/font-awesome.min.css",
+		"/Users/grifon/phonegap/PH/www/index.html",
+		"/Users/grifon/phonegap/PH/www/core-features.html",
+		"/Users/grifon/sites/ph.loc/www/about.html",
+		"/extra/httpd-vhosts.conf",
+		"/etc/apache2/httpd.conf",
+		"/Applications/XAMPP/xamppfiles/docs/grifon.loc/css/main.css",
+		"/Applications/XAMPP/xamppfiles/docs/grifon.loc/index.html",
+		"/Applications/XAMPP/xamppfiles/docs/grifon.loc/js/common.js",
+		"/Users/grifon/Library/Caches/Cleanup At Startup/Transmit/1DF20DCB-59E5-476A-A60F-81474D2ACE8B/index.html",
+		"/Users/grifon/Library/Caches/Cleanup At Startup/Transmit/7551C871-FD52-4A4E-AC2A-8FBD9E290D10/main.css",
+		"/Users/grifon/Library/Caches/Cleanup At Startup/Transmit/93BC346B-F36E-4929-AF97-037AEFBC3281/common.js",
+		"/Users/grifon/Library/Caches/Cleanup At Startup/Transmit/234030CF-F9D4-4399-BFC8-AD38BA1D8EC5/index.html",
+		"/Users/grifon/Library/Caches/Cleanup At Startup/Transmit/4C481B97-042B-4315-A28D-D1937DE05560/style.css",
+		"/Users/grifon/Library/Caches/Cleanup At Startup/Transmit/A2503C8F-E8AB-4009-AAF5-647DD7836AD0/style.css",
+		"/Users/grifon/Library/Caches/Cleanup At Startup/Transmit/B4F76A26-C293-4AFE-B46C-1F4E6005138C/about.html",
+		"/Users/grifon/Library/Caches/Cleanup At Startup/Transmit/8A9FD97D-E80D-4F39-8E35-E1E78C4EC658/index.html",
+		"/Users/grifon/Library/Caches/Cleanup At Startup/Transmit/882F8123-B893-4846-BEC4-CA886B384C34/style.css",
+		"/Users/grifon/Library/Caches/Cleanup At Startup/Transmit/FD1FD993-98D0-4045-B661-8C2F7AC3DD0F/common.js",
+		"/Users/grifon/Library/Caches/Cleanup At Startup/Transmit/161DACCD-8DEE-422F-AE7C-5F7CCC2B3114/template.php",
+		"/private/var/folders/gs/7dny6ns54251w896mxztn0f00000gn/T/style.css",
+		"/Users/grifon/Library/Caches/Cleanup At Startup/Transmit/88A7FC7F-3698-4F3D-812D-3058B5FCB391/index.html",
+		"/Users/grifon/Library/Caches/Cleanup At Startup/Transmit/F8132425-49A8-4556-9A03-3C85E4E75880/main.css",
+		"/Users/grifon/Library/Caches/Cleanup At Startup/Transmit/0F3FDA9B-DAF6-4875-B202-026F9842A544/template.php",
+		"/Users/grifon/Library/Caches/Cleanup At Startup/Transmit/4F57B0FD-E593-4116-9FF3-323FA62B1A38/detail.php",
+		"/Users/grifon/Library/Caches/Cleanup At Startup/Transmit/E278FD55-3171-406C-A2A6-33702B5FA8A5/wp-mail.php",
+		"/Users/grifon/Library/Caches/Cleanup At Startup/Transmit/5A9C2279-06F0-48D6-B679-729362ED3473/xmlrpc.php",
+		"/Volumes/u438393.ftp.masterhost.ru/az.rifd.ru/www/index.html",
+		"/Users/grifon/Desktop/index.html",
+		"/var/folders/gs/7dny6ns54251w896mxztn0f00000gn/T/sublime-sftp-browse-1483654692/masterhost/.htaccess",
+		"/var/folders/gs/7dny6ns54251w896mxztn0f00000gn/T/sublime-sftp-browse-1483652643/masterhost/electrolaboratory.rifd.ru/www/index.html",
+		"/var/folders/gs/7dny6ns54251w896mxztn0f00000gn/T/sublime-sftp-browse-1483649642/masterhost/ait-v.rifd.ru/www/mail.php",
+		"/var/folders/gs/7dny6ns54251w896mxztn0f00000gn/T/sublime-sftp-browse-1483649694/masterhost/ait-v.rifd.ru/www/index.html",
+		"/var/folders/gs/7dny6ns54251w896mxztn0f00000gn/T/sublime-sftp-browse-1483650119/masterhost/ait-v.rifd.ru/www/.project",
+		"/Users/grifon/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/masterhost",
+		"/Users/grifon/Library/Application Support/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/Users/grifon/Library/Application Support/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/grifon/Library/Application Support/Sublime Text 3/Packages/FTPSync/FTPSync.sublime-settings",
+		"/Users/grifon/Library/Application Support/Sublime Text 3/Packages/User/FTPSync.sublime-settings",
+		"/private/var/folders/gs/7dny6ns54251w896mxztn0f00000gn/T/com.naarak.ViperFTPLite/tmp.QQXQde/privacy_policy.php",
+		"/private/var/folders/gs/7dny6ns54251w896mxztn0f00000gn/T/com.naarak.ViperFTPLite/tmp.jQmOuJ/index.php",
+		"/private/var/folders/gs/7dny6ns54251w896mxztn0f00000gn/T/com.naarak.ViperFTPLite/tmp.bc5TFt/index.php",
+		"/Applications/XAMPP/xamppfiles/etc/extra/httpd-vhosts.conf",
+		"/usr/local/lib/node_modules/gulp/index.js",
+		"/Users/grifon/index.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"conf/extra/httpd",
+			"httpd-vhosts.conf",
+			"httpd-vhosts",
+			"\t\n",
+			".head",
+			"<?",
+			"<?php\n/**\n * XML-RPC protocol support for WordPress\n *\n * @package WordPress\n */\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/grifon/sites/ph.loc/www/search.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4492,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1151,
+								1151
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 47.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/grifon/sites/ph.loc/www/swiper-3d-cube.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1663,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1663,
+								1663
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/my-app.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 116,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/grifon/sites/ph.loc/www/js/my-app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2247,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								418,
+								418
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/grifon/sites/ph.loc/www/swiper.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4372,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2149,
+								2149
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/grifon/sites/ph.loc/www/index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 34528,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6150.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 50.0
+	},
+	"pinned_build_system": "",
+	"project": "ph.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
